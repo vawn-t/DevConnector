@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://nerdgang:nerdgang@devconnector.mwfn5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "622cc9e310dd9e262679",
+    "githubSecret": "13a3c9e87b40e22de8ca9f2fe2d7b25aaad0a724"
+}
